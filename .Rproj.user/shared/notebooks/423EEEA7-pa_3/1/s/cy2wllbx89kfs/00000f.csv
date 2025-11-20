@@ -1,0 +1,9 @@
+"0","vowel_data <- read.csv(""data/vowel_data.csv"",
+                fileEncoding = ""UTF-16"",
+                encoding = ""UTF-8"",
+                sep = "","",
+                stringsAsFactors = TRUE)
+```
+"
+"2","Error: attempt to use zero-length variable name
+"

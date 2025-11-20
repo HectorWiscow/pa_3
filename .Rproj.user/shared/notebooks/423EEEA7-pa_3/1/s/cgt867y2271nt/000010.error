@@ -1,0 +1,1 @@
+{"frames":[{"func":"ggplot(vowel_data)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error: object 'vowel_data' not found\n"}
